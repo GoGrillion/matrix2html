@@ -2,7 +2,7 @@
 
 Pretty print matrices in various HTML formats  
 
-###Features
+### Features
  
 - Tables
 
