@@ -1,0 +1,19 @@
+{
+  "name": "@gogrillion/matrix2html",
+  "version": "1.0.0",
+  "description": "Pretty print matrices as HTML in various formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "matrix",
+    "pretty",
+    "print",
+    "html",
+    "table",
+    "grid"
+  ],
+  "author": "Mike Grill <mike@gogrillion.com>",
+  "license": "ISC"
+}
